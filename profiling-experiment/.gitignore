@@ -1,0 +1,46 @@
+# Libtorch binaries
+libtorch/
+
+# Build files
+build/
+*.egg-info/
+dist/
+
+# Scratchpads
+scratchpad.ipynb
+scratchpad.py
+
+# vs code files
+.vscode/
+
+# Pycache
+**/__pycache__
+
+# Job output
+profiling-output/
+output/
+approx-output/
+
+# Other
+keys-queries/
+kqv/
+profile
+test.py
+profiler.sh
+profiler-output.txt
+plotting.ipynb
+run/test.sh
+.history
+
+# Internal development files
+CLAUDE.md
+.claude/
+KERNEL-SPEC.md
+imgs/
+approx-output-arc/
+plotting/old-figures.ipynb
+
+# Environment
+.venv/
+uv.lock
+pyproject.toml

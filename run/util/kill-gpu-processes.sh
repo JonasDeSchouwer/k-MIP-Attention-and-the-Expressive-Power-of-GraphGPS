@@ -1,0 +1,1 @@
+nvidia-smi | awk '/python/ {print $5}' | xargs -r kill
