@@ -1,6 +1,6 @@
 # k-Maximum Inner Product Attention for Graph Transformers and the Expressive Power of GraphGPS
 [![OpenReview](https://img.shields.io/badge/OpenReview-b31b1b.svg)](https://openreview.net/forum?id=4Y5kxbH2fI)
-[![arXiv](https://img.shields.io/badge/arXiv-TODO-b31b1b.svg)](https://arxiv.org/abs/TODO)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2604.03815)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 In this work, we introduce k-MIP self-attention for graph transformers. This codebase contains all code required to reproduce the experiments in the paper.
